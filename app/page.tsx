@@ -140,7 +140,7 @@ export default function ConnectPage() {
           <a href="https://wa.me/94741117600" target="_blank" className="social-link group flex items-center justify-between w-full bg-[#25D366]/10 hover:bg-[#25D366]/20 border border-[#25D366]/30 text-[#4ade80] font-medium py-3.5 px-6 rounded-2xl transition-all duration-300 hover:-translate-y-0.5">
             <span className="flex items-center gap-4">
               <MessageSquare className="w-5 h-5 text-[#25D366]" />
-              <span class="text-gray-200">WhatsApp Me</span>
+              <span className="text-gray-200">WhatsApp Me</span>
             </span>
             <ArrowUpRight className="w-4 h-4 opacity-40 group-hover:opacity-100 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all" />
           </a>
